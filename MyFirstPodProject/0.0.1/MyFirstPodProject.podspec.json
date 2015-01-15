@@ -1,0 +1,19 @@
+{
+  "name": “MyFirstPodProject”,
+  "version": “0.0.1”,
+  "license": "MIT",
+  "summary": "MyFirstPodProject.",
+  "homepage": "https://github.com/balagurubaran/MyFirstPodProject",
+  "authors": {
+    “balagurubarna”: “iappscrazy@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/balagurubaran/MyFirstPodProject.git",
+    "tag": “0.0.1”
+  },
+  "platforms": {
+    "ios": “6.0”
+  },
+  "source_files": "MyFirstPodProject",
+  "requires_arc": true
+}
