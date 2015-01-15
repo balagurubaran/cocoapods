@@ -1,6 +1,6 @@
 {
   "name": "MyFirstPodProject",
-  "version": “0.0.2”,
+  "version": "0.0.2",
   "license": "MIT",
   "summary": "MyFirstPodProject.",
   "homepage": "https://github.com/balagurubaran/MyFirstPodProject",
@@ -9,7 +9,7 @@
   },
   "source": {
     "git": "https://github.com/balagurubaran/MyFirstPodProject.git",
-    "tag": “0.0.2”
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "6.0"
